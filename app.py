@@ -94,5 +94,5 @@ def taxi():
 # 위와같이 접속 하면 안녕 나는 네이버야~
 # 라는 글자를 나타나게 하시오
 
-if __name__ == '__main__':
-    app.run()
+#if __name__ == '__main__':
+#    app.run()
